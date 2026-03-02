@@ -94,5 +94,4 @@ The framework is a single importable package (`engine/`) with these core compone
 | `console.go` | In-game debug console |
 
 ## License
-
-TBD
+https://github.com/zJeremiah/2d-go-game/blob/main/LICENSE
