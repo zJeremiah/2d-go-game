@@ -7,7 +7,7 @@ A JSON-driven 2D game framework for Go, built on [Ebitengine](https://ebitengine
 
 ## Status
 
-Work in progress. See [docs/PLAN.md](docs/PLAN.md) for the full architecture and build plan.
+Work in progress. See [docs/PLAN.md](https://codeberg.org/zjeremiah/2d-go-game/src/branch/main/docs/PLAN.md) for the full architecture and build plan.
 
 ## Features (planned)
 
